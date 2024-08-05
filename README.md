@@ -17,3 +17,5 @@ Within each folder, the files should be run in order.
 The folders starting with "_" are used to organize results.
 
 The fcmc_*.R scripts contain functions needed to perform the analysis.
+
+All code is licensed under the GNU General Public License v3.0.
